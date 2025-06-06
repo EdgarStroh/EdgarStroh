@@ -19,6 +19,6 @@ _I'm currently working on some portfolio pieces and side projects – more comin
 ## 📫 Get in touch
 - 🌐 Portfolio: [edgar-stroh.de](https://edgar-stroh.de)
 - 📧 Email: edgarstroh@gmail.com
-- 💼 LinkedIn: *coming soon*
+- 💼 LinkedIn: [linkedin.com/in/edgar-stroh-144a28337](https://www.linkedin.com/in/edgar-stroh-144a28337/)
 
 Thanks for stopping by! 🚀
