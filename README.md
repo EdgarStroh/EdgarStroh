@@ -7,14 +7,11 @@ I'm passionate about **refining the craft of coding** – writing clean, efficie
 
 ## 🧠 Tech Stack
 - HTML / CSS / SCSS
-- JavaScript (ES6+)
+- JavaScript 
 - Angular
 - Git & GitHub
 - Figma
 - Responsive Design
-
-## 🚀 Projects
-_I'm currently working on some portfolio pieces and side projects – more coming soon!_
 
 ## 📫 Get in touch
 - 🌐 Portfolio: [edgar-stroh.de](https://edgar-stroh.de)
