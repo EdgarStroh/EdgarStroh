@@ -1,7 +1,7 @@
 ## Hallo zusammen, ich bin Edgar Stroh 👋
 Ich bin ein angehender IT-Support-Profi mit praktischer Erfahrung in der Windows-Administration, Active Directory und der Fehlerbehebung in meiner eigenen Home-Lab-Umgebung. Nachdem ich das Google IT Support Professional Certificate abgeschlossen und praktische IT-Projekte umgesetzt habe, möchte ich nun meine Karriere im IT-Support oder am Service Desk beginnen.
 
-💻 Woran ich derzeit arbeite
+##💻 Woran ich derzeit arbeite
 Aufbau und Wartung einer Windows Server Home-Lab-Umgebung
 
 Active Directory-Administration
@@ -14,7 +14,7 @@ Erweiterung meiner Kenntnisse in Netzwerk- und Systemadministration
 
 Kontinuierliche Verbesserung meiner technischen Fähigkeiten und Problemlösungskompetenz
 
-🛠️ Technische Fähigkeiten
+##🛠️ Technische Fähigkeiten
 Windows 10 / Windows 11
 
 Windows Server
@@ -31,7 +31,7 @@ Git & GitHub
 
 HTML, CSS, JavaScript
 
-📂 Ausgewählte Projekte
+##📂 Ausgewählte Projekte
 Home-Lab (Windows Server & Active Directory)
 
 Aufgabenverwaltungs-Anwendung
