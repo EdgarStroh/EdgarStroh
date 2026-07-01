@@ -2,9 +2,9 @@
 Ich bin ein angehender IT-Support-Profi mit praktischer Erfahrung in der Windows-Administration, Active Directory und der Fehlerbehebung in meiner eigenen Home-Lab-Umgebung. Nachdem ich das Google IT Support Professional Certificate abgeschlossen und praktische IT-Projekte umgesetzt habe, möchte ich nun meine Karriere im IT-Support oder am Service Desk beginnen.
 
 ## 💻 Woran ich derzeit arbeite
-Aufbau und Wartung einer Windows Server Home-Lab-Umgebung
+- Aufbau und Wartung einer Windows Server Home-Lab-Umgebung
 
-Active Directory-Administration
+- Active Directory-Administration
 
 Benutzer- und Gruppenverwaltung
 
