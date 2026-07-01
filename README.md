@@ -40,7 +40,7 @@ Web-App zur Aktienanalyse
 
 Browserspiel (JavaScript)
 
-📫 Kontakt
+## 📫 Kontakt
 🌐 Portfolio: https://edgar-stroh.de
 
 💼 LinkedIn: https://linkedin.com/in/edgar-stroh-144a28337
