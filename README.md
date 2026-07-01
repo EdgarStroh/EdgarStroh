@@ -1,21 +1,50 @@
-# Hi there, I'm Edgar Stroh 👋
+Hallo zusammen, ich bin Edgar Stroh 👋
+Ich bin ein angehender IT-Support-Profi mit praktischer Erfahrung in der Windows-Administration, Active Directory und der Fehlerbehebung in meiner eigenen Home-Lab-Umgebung. Nachdem ich das Google IT Support Professional Certificate abgeschlossen und praktische IT-Projekte umgesetzt habe, möchte ich nun meine Karriere im IT-Support oder am Service Desk beginnen.
 
-I'm currently diving deep into the world of **frontend development** through a professional training program. My main tools are **HTML, CSS, JavaScript**, and lately I've been exploring **Angular**.
+💻 Woran ich derzeit arbeite
+Aufbau und Wartung einer Windows Server Home-Lab-Umgebung
 
-## 💻 What I'm about
-I'm passionate about **refining the craft of coding** – writing clean, efficient code and constantly improving my skills. Whether it's building responsive UIs or learning modern frameworks, I’m always curious and eager to grow.
+Active Directory-Administration
 
-## 🧠 Tech Stack
-- HTML / CSS / SCSS
-- JavaScript 
-- Angular
-- Git & GitHub
-- Figma
-- Responsive Design
+Benutzer- und Gruppenverwaltung
 
-## 📫 Get in touch
-- 🌐 Portfolio: [edgar-stroh.de](https://edgar-stroh.de)
-- 📧 Email: edgarstroh@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/edgar-stroh-144a28337](https://www.linkedin.com/in/edgar-stroh-144a28337/)
+Fehlerbehebung in Windows-Umgebungen
 
-Thanks for stopping by! 🚀
+Erweiterung meiner Kenntnisse in Netzwerk- und Systemadministration
+
+Kontinuierliche Verbesserung meiner technischen Fähigkeiten und Problemlösungskompetenz
+
+🛠️ Technische Fähigkeiten
+Windows 10 / Windows 11
+
+Windows Server
+
+Active Directory
+
+Spiceworks
+
+TCP/IP, DNS, DHCP (Grundlagen)
+
+Oracle VirtualBox
+
+Git & GitHub
+
+HTML, CSS, JavaScript
+
+📂 Ausgewählte Projekte
+Home-Lab (Windows Server & Active Directory)
+
+Aufgabenverwaltungs-Anwendung
+
+Web-App zur Aktienanalyse
+
+Browserspiel (JavaScript)
+
+📫 Kontakt
+🌐 Portfolio: https://edgar-stroh.de
+
+💼 LinkedIn: https://linkedin.com/in/edgar-stroh-144a28337
+
+📧 E-Mail: kontakt@edgar-stroh.de
+
+Danke fürs Vorbeischauen! 🚀
